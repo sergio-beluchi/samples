@@ -1,4 +1,5 @@
-# samples
+# instruction
+
 all actuator endpoints: https://localshot:port/actuator
 use actuator shutdown:
 1) launch application
